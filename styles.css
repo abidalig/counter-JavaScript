@@ -1,0 +1,32 @@
+
+body, html{
+  background-color:#f7e1c3;
+  margin:0;
+  padding:0;
+}
+h1, #value{font-size: 80px;}
+.section{
+  text-align: center;
+padding: 5rem 0;
+}
+.container{
+  text-align: center;
+
+}
+.btn {
+  text-transform: uppercase;
+  background: transparent;
+  display: inline-block;
+  font-weight: 700;
+  border: 2px solid black;
+  cursor: pointer;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  font-size: 1rem;
+  padding: 0.75rem 1.25rem;
+}
+.btn:hover {
+  color: white;
+  background: black;
+  border-radius: 5px;
+}
